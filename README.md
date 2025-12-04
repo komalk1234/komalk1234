@@ -27,22 +27,22 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komalkamble&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalkamble&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=komalk1234&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalk1234&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Graph  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/komalkamble/komalkamble/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/komalk1234/komalk1234/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="YOUR LINKEDIN LINK"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="www.linkedin.com/in/komal-kamble-900055346"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="YOUR INSTAGRAM LINK"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
   <a href="https://github.com/komalkamble"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
