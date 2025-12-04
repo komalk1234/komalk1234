@@ -25,18 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komalk1234&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalk1234&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🐍 Contribution Graph  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/komalk1234/komalk1234/output/snake.svg" alt="snake animation" />
-</p>
 
 ---
 
