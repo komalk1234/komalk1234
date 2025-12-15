@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Komal Kamble</h1>
-<h3 align="center">AI & Data Science Developer | Python • React • JavaScript</h3>
+<h3 align="center">Aspiring Data Scientist | Python • AI-ML </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
@@ -8,11 +8,11 @@
 ---
 
 ## 🚀 About Me  
-- 👩‍💻 AI & Data Science Developer  
+- 👩‍💻 AI-MI & Data Science
 - 🌱 Skilled in **Python, JavaScript, React, Node.js, MySQL**  
 - 🤖 Currently working on **Generative AI**  
 - 🎯 Goal: Build intelligent systems that help users in daily life  
-- 📫 Reach me at: *(add your email if you want)*  
+- 📫 Reach me at: *(komalkamble0806@gmail.com)*  
 
 ---
 
